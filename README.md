@@ -247,10 +247,10 @@ This significantly improved output quality.
 | Image | Generated Caption |
 |---|---|
 | ![](samples/dog_running.png) | "a dog running" |
+| ![](samples/group_mountain.png) | "a group people on mountain" |
 | ![](samples/man_climbing.png) | "a man climbing mountain" |
 | ![](samples/two_dogs.png) | "two dogs in field" |
-| ![](samples/group_mountain.png) | "a group people on mountain" |
-
+| ![](samples/image5.png) | "a group people on beach" |
 ---
 
 # Observed Limitations
