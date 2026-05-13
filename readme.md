@@ -17,7 +17,7 @@ An end-to-end image captioning pipeline using a pretrained ViT encoder and LSTM 
 ## Results
 
 ### Loss Curve
-![Loss Curve](loss_curve.png)
+![Loss Curve](loss_curv.png)
 
 | Epoch | Avg Loss |
 |-------|----------|
